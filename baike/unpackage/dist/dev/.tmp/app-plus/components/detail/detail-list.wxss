@@ -1,0 +1,106 @@
+
+.common-list.data-v-6305613d {
+	/* padding: 20upx; */
+}
+.common-list-l.data-v-6305613d {
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+}
+.common-list-l image.data-v-6305613d {
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 100%;
+}
+.common-list-r.data-v-6305613d {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	margin-left: 15rpx;
+	border-bottom: 1rpx solid #EEEEEE;
+	padding-bottom: 10rpx;
+}
+.common-list-r>view:nth-child(3)>image.data-v-6305613d {
+	/* width: 100%; */
+	border-radius: 10rpx;
+}
+.common-list-r>view:nth-child(1)>view.data-v-6305613d:first-child {
+	color: #999999;
+	font-size: 32rpx;
+}
+.tag-sex.data-v-6305613d {
+	background: #007AFF;
+	color: #FFFFFF;
+	font-size: 23rpx;
+	padding: 5rpx 10rpx;
+	margin-left: 10rpx;
+	border-radius: 20rpx;
+	line-height: 22rpx;
+}
+.common-list-r>view:nth-child(1)>view.data-v-6305613d:last-child {
+	background: #EEEEEE;
+	padding: 0 10rpx;
+	font-size: 26rpx;
+}
+.common-list-r>view.data-v-6305613d:nth-child(2) {
+	font-size: 32rpx;
+	padding: 12rpx 0;
+}
+.common-list-r>view.data-v-6305613d:nth-child(3) {
+	position: relative;
+}
+.common-list-play.data-v-6305613d,
+.common-list-playinfo.data-v-6305613d {
+	position: absolute;
+	color: #FFFFFF;
+}
+.common-list-play.data-v-6305613d {
+	font-size: 130rpx;
+}
+.common-list-playinfo.data-v-6305613d {
+	right: 10rpx;
+	bottom: 10rpx;
+	background: rgba(51, 51, 51, 0.73);
+	border-radius: 20rpx;
+	padding: 0 20rpx;
+	font-size: 26rpx;
+}
+.common-list-r>view:nth-child(4)>view.data-v-6305613d {
+	color: #AAAAAA;
+}
+.common-list-r>view:nth-child(4)>view:nth-child(2)>view.data-v-6305613d {
+	margin-left: 10rpx;
+	padding-left: 5rpx;
+}
+.common-list-share.data-v-6305613d {
+	background: #EEEEEE;
+	width: 100%;
+	padding: 10rpx;
+	border-radius: 10rpx;
+}
+.common-list-share>image.data-v-6305613d {
+	width: 200rpx;
+	height: 150rpx;
+	margin-right: 10rpx;
+}
+.common-list-r.data-v-6305613d{
+	border-bottom: 0;
+}
+.common-list.data-v-6305613d{
+	border-bottom: 1rpx solid #EEEEEE;
+}
+.common-list-r-time.data-v-6305613d{
+	padding: 15rpx 0;
+	color: #CCCCCC!important;
+	font-size: 25rpx;
+	background: #FFFFFF!important;
+}
+.common-list-r>view:nth-child(1)>view:nth-child(1)>view.data-v-6305613d:first-child{
+	color: #999999;
+	font-size: 32rpx;
+}
+.common-list-r>view:nth-child(1)>view:nth-child(1)>view.data-v-6305613d:last-child{
+	background: #EEEEEE;
+	padding: 0 10rpx;
+	font-size: 26rpx;
+}
+
