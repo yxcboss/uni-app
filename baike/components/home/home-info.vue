@@ -1,5 +1,5 @@
 <template>
-	<view class="home-info u-f-ac">
+	<view class="home-info u-f-ac" @tap="openuserspace">
 		<view class="left u-f-ac">
 			<image :src="homeinfo.userpic" mode="widthFix" lazy-load></image>
 			<view class="u-f1">
@@ -15,6 +15,16 @@
 	export default {
 		props:{
 			homeinfo:Object
+		},
+		methods:{
+			openuserspace(){
+				uni.navigateTo({
+					url: '../../pages/user-space/user-space',
+					success: res => {},
+					fail: () => {},
+					complete: () => {}
+				});
+			}
 		}
 	}
 </script>
