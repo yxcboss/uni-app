@@ -1,0 +1,14 @@
+
+.home-data.data-v-01031cf5{ 
+	padding: 20rpx 40rpx;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.home-data>view.data-v-01031cf5{
+	color: #989898;
+}
+.home-data>view>view.data-v-01031cf5{
+	font-size: 32rpx;
+	color: #333333;
+}
+

@@ -70,6 +70,7 @@
 		width: 100%;
 	}
 	.nav-tab-bar{
+		height: 100%;
 		width: 100%;
 		margin-left: -20upx;
 		position: relative;

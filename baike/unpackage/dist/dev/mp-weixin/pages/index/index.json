@@ -1,8 +1,8 @@
 {
   "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
     "index-list": "/components/index/index-list",
     "swiper-tab-head": "/components/index/swiper-tab-head",
-    "uni-load-more": "/components/uni-load-more/uni-load-more",
     "no-thing": "/components/common/no-thing"
   }
 }

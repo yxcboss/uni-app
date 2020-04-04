@@ -251,6 +251,17 @@
 					this.swiperheight=height;
 				}
 			});
+			uni.request({
+			    url: 'http://gladming.top/music/api.php', //仅为示例，并非真实接口地址。
+			    data:{
+					types: 'playlist',
+					id: 440103454
+				},
+			    success: (res) => {
+			        console.log(res);
+			        
+			    }
+			});
 		},
 		//进入搜索页
 		onNavigationBarSearchInputClicked(){

@@ -1,3 +1,9 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "common-list": "/components/common/common-list",
+    "new-nav-bar": "/components/news/new-nav-bar",
+    "topic-nav": "/components/news/topic-nav",
+    "topic-list": "/components/news/topic-list"
+  }
 }

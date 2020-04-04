@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "小纸条",
+  "usingComponents": {
+    "paper-list": "/components/paper/paper-list"
+  }
 }
